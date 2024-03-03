@@ -1,5 +1,8 @@
 # CmdProtocalParser (CPP)
 
+Before I start, I want to make it very clear that I didn't make this. [@endermanch](https://github.com/endermanch) made it! Check out his youtube if you like techy
+things!
+
 This is the source code that is shown in [@endermanch](https://github.com/endermanch)'s video where he creates a custom protocol with little change.
 You might be wondering, "Why did you copy down his code and release it on GitHub?". The answer is: I had nothing better to do and I might as well upload it
 if anyone else needed it (which I doubt).
